@@ -4,6 +4,7 @@ My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node
 
 ### About
 - I'm currently working on a bump bot for a special [Discord](https://discord.com) server and a Special bot called [ParrotBot](https://github.com/Parrotbot/ParrotBot)
+- I'm also a GitHub Manager for [AstronomyBot](https://github.com/astronomybot)
 - I'm currently learning more JavaScript and Python
 - You can reach me via Discord (Jonfirexbox#3400)
 
