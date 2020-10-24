@@ -9,3 +9,4 @@ My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node
 - You can reach me via Discord (Jonfirexbox#3400)
 
 ![](https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonfirexbox)](https://github.com/Jonfirexbox/Jonfirexbox)
