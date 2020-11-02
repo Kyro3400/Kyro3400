@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/xPolar/xPolar/master/header.svg" alt="Monkey face" style="width: 100%; height: auto;">
+
+</p>
+
 ### Hi there
 
 My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node.JS and HTML/CSS. I crate all of my bots on [DanBot Hosting](https://panel.danbot.host)
