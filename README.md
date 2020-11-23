@@ -9,7 +9,8 @@
 My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node.JS and HTML/CSS. I crate all of my bots on [DanBot Hosting](https://panel.danbot.host)
 
 ### About
-- I'm currently working on a bump bot for a special [Discord](https://discord.com) server and a Special Development called [Science Development](https://github.com/Science-development)
+- I'm currently working on a bump bot for a special [Discord](https://discord.com) server 
+- Also I'm working Special Development called [Castle Development](https://github.com/Castle-development)
 - I'm also a GitHub Manager for [AstronomyBot](https://github.com/astronomybot)
 - I'm currently learning more JavaScript and Python! And soon I'm going to learn Java!
 - You can reach me via Discord (Jonfirexbox#3400)
