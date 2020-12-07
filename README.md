@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/Jonfirexbox/Jonfirexbox/master/header.svg" alt="Monkey face" style="width: 100%; height: auto;">
 
 </p>
+![](https://api.ghprofile.me/view?username=Jonfirexbox&color=cyan)
 
 ### Hi there
 
@@ -15,5 +16,20 @@ My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node
 - I'm currently learning more JavaScript and Python! And soon I'm going to learn Java!
 - You can reach me via Discord (Jonfirexbox#3400)
 
-![](https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonfirexbox)](https://github.com/Jonfirexbox/Jonfirexbox)
+### Languages 
+Here are some coding languages I'm good at:
+<p>
+  
+[![NodeJS](https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() (Im ok with this one)
+[![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=white)]()
+
+</p>
+
+### My Stats
+<details>
+  <summary>⚡ GitHub Activity and Statistics</summary> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonfirexbox&count_private=true&show_icons=true&theme=gotham" />
+</details>
