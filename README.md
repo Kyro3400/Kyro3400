@@ -12,9 +12,8 @@ My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node
 
 ### About
 - I'm currently working on a bump bot for a special [Discord](https://discord.com) server 
-- Also I'm working Special Development called [Science Development](https://github.com/Science-development)
-- I'm also a GitHub Manager for [AstronomyBot](https://github.com/astronomybot)
-- I'm currently learning more JavaScript and Python! And soon I'm going to learn Java!
+- Also I'm working on a special discord bot called SpaceBot 
+- I'm currently learning more JavaScript and Python! And soon I'm going to learn Python!
 - You can reach me via Discord (Jonfirexbox#3400)
 
 ### Languages 
@@ -24,7 +23,7 @@ Here are some coding languages I'm good at:
 [![NodeJS](https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() (Im ok with this one)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 </p>
