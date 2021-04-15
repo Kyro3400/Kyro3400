@@ -1,32 +1,18 @@
-<p align="center">
+<h1 align="center">Hi, I'm Jon or Jonfirexbox! 👋</h1>
+<h3 align="center">A 14 year old Bot and Website developer. See my work and stuff like that at [My Website](https://jonfirexbox.github.io)!</h3>
 
-  <img src="https://raw.githubusercontent.com/Jonfirexbox/Jonfirexbox/master/header.svg" alt="Monkey face" style="width: 100%; height: auto;">
+<a href="https://discord.gg/bj9ynq57dj" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/bj9ynq57dj"/></a>
+<a href="https://discord.gg/dphmTfWX4D" target="blank"><img src="https://shields.io/badge/join_my-discord2-7289DA?logo=discord&style=for-the-badge" alt="h/discord.gg/dphmTfWX4D"/></a>
 
-</p>
+- 🔭 I’m currently working on **3 Discord bots called [Vertex Bump](https://top.gg/bot/699101991372193813), [AT Bump](https://top.gg/bot/719878436990222368), and [A new bot but not leaking]()!**
 
-![](https://api.ghprofile.me/view?username=Jonfirexbox&color=cyan)
+- 🌱 I’m currently learning **react and TypeScript**
 
-### Hi there
-
-My name is Jonfirexbox and I am a _average_ programmer. I code primarily in Node.JS and HTML/CSS. I create all of my bots on [DanBot Hosting](https://panel.danbot.host)
-
-### About
-- I'm currently working on a bump bot for a special [Discord](https://discord.com) server 
-- Also I'm working on a special discord bot called SpaceBot 
-- I'm currently learning more JavaScript and Python! And soon I'm going to learn Python!
-- You can reach me via Discord (Jonfirexbox#3400)
-
-### Languages 
-Here are some coding languages I'm good at:
-<p>
-  
-[![NodeJS](https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=white)]()
-
-</p>
+<a href="https://discord.gg/dphmTfWX4D "><p><img align="center" src="https://discord.com/api/guilds/751094999667703848/embed.png?style=banner3" alt="discord"/></a>
+<br>
+<a href="https://github.com/Jonfirexbox/">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonfirexbox&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="jonfirexbox"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="jonfirexbox"/>
 
 ### My Stats
 <details>
