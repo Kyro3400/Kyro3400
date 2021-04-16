@@ -3,8 +3,9 @@
 
 <a href="https://discord.gg/bj9ynq57dj" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/bj9ynq57dj"/></a>
 <a href="https://discord.gg/dphmTfWX4D" target="blank"><img src="https://shields.io/badge/join_my-discord2-7289DA?logo=discord&style=for-the-badge" alt="h/discord.gg/dphmTfWX4D"/></a>
+
 <h1 align="center">Info on Me!</h1>
-- 🔭 I’m currently working on **3 Discord bots called [Vertex Bump](https://top.gg/bot/699101991372193813), [AT Bump](https://top.gg/bot/719878436990222368), and [A new bot but not leaking]()!**
+- 🔭 I’m currently working on 2 Discord bots called [Vertex Bump](https://top.gg/bot/699101991372193813), [AT Bump](https://top.gg/bot/719878436990222368)!
 
 - 🌱 I’m currently learning **react and TypeScript**
 
