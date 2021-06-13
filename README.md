@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jon or Jonfirexbox! 👋</h1>
-<h3 align="center">A 14 year old Bot and Website developer. See my work and stuff like that at [My Website](https://jonfirexbox.github.io)!</h3>
+<h3 align="center">A 14 year old, Bot and Website developer. See my work and stuff like that at [My Website](https://jonfirexbox.github.io)!</h3>
 
 <a href="https://discord.gg/bj9ynq57dj" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/bj9ynq57dj"/></a>
 <a href="https://discord.gg/dphmTfWX4D" target="blank"><img src="https://shields.io/badge/join_my-discord2-7289DA?logo=discord&style=for-the-badge" alt="h/discord.gg/dphmTfWX4D"/></a>
