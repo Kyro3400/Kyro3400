@@ -13,7 +13,7 @@
 <a href="https://discord.gg/bj9ynq57dj "><p><img align="center" src="https://discord.com/api/guilds/830626210358231120/embed.png?style=banner3" alt="discord-hub"/></a>
 <br>
 <h1 align="center">Github Stats</h1>
-<a href="https://github.com/Jonfirexbox/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonfirexbox&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="jonfirexbox"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="jonfirexbox"/>
+<a href="https://github.com/Kyro3400/">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= kyro3400&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="kyro3400"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyro3400&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="kyro3400"/>
 </br>
