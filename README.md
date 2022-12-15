@@ -1,14 +1,12 @@
 ## Hi, I'm Kyro! 👋
 #I'm a Bot and Website developer. See my work and stuff like that at [My Website](https://kyro3400.github.io)!
 
-<a href="https://discord.gg/dphmTfWX4D" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="h/discord.gg/dphmTfWX4D"/></a>
 
 ## Info on Me!
 - 🔭 I’m currently working on a Discord bot called [Corrupt Bump](https://top.gg/bot/699101991372193813)!
 
 - 🌱 I’m currently learning **react and TypeScript**
 
-<a href="https://discord.gg/dphmTfWX4D"><p><img align="center" src="https://discord.com/api/guilds/751094999667703848/embed.png?style=banner3" alt="corrupt-advertising"/></a>
 
 
 <h1 align="center">Github Stats</h1>
