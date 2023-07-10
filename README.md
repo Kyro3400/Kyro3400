@@ -3,7 +3,7 @@
 
 
 ## Info on Me!
-- 🔭 I’m currently working on a Discord bot called [Corrupt Bump](https://top.gg/bot/699101991372193813)!
+- 🔭 I’m currently working on a Discord bot called [Vertex Bump](https://top.gg/bot/699101991372193813)!
 
 - 🌱 I’m currently learning **react and TypeScript**
 
