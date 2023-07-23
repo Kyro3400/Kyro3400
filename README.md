@@ -1,5 +1,5 @@
 ## Hi, I'm Kyro! 👋
-#I'm a Bot and Website developer. See my work and stuff like that at [My Website](https://kyro3400.github.io)!
+I'm a Bot and Website developer. See my work and stuff like that at [My Website](https://kyro3400.github.io)!
 
 
 ## Info on Me!
