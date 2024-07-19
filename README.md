@@ -7,6 +7,9 @@ I'm a Bot and Website developer. See my work and stuff like that at [My Website]
 
 - 🌱 I’m currently learning **react and TypeScript**
 
+# Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyro3400)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h1 align="center">Github Stats</h1>
 <a href="https://github.com/Kyro3400/">
