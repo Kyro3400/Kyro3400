@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [open-domains](https://github.gg/open-domains)
 
-- 📄 Know about my experiences [jon.discordone.tk](https://jon.discordone.tk)
+- 📄 Know about my experiences [kyro3400.github.io](https://kyro3400.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
