@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [open-domains](https://github.gg/open-domains)
+- 👯 I’m looking to collaborate on [open-domains](https://github.com/open-domains)
 
 - 📄 Know about my experiences [kyro3400.github.io](https://kyro3400.github.io/)
 
